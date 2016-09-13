@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+    <attr name="micon" format="reference"/>
+    <attr name="mcolor" format="color"/>
+    <attr name="text" format="string"/>
+    <attr name="text_size" format="dimension"/>
+
+    <declare-styleable name="tabView">
+        <attr name="micon"/>
+        <attr name="mcolor"/>
+        <attr name="text"/>
+        <attr name="text_size"/>
+    </declare-styleable>
+
+</resources>
